@@ -60,5 +60,5 @@ target/
 # PyCharm
 .idea/
 
-# SQL files
-*.sql
+# out files
+out/
